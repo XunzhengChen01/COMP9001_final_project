@@ -33,9 +33,6 @@ The core gameplay involves maneuvering the starfighter left and right across thr
     *   The game ends if the player's starfighter collides with any obstacle (meteorite or pirate ship).
     *   The game can also be ended prematurely by pressing the **ESCAPE (ESC) KEY**.
     *   Upon game over, an end screen displays "GAME OVER" and the player's final score. Players can then choose to play again or quit.
-*   **Visuals & Audio**:
-    *   The game features custom sprites for the player, meteorites, pirate ships, and a scrolling space background.
-    *   Background music plays throughout the game to enhance the arcade experience.
 
 ## How to Play
 
