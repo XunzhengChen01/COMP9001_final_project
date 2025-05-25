@@ -51,13 +51,13 @@ The core gameplay involves maneuvering the starfighter left and right across thr
     *   Ensure you have an `assets` folder in the same directory as the main game script (`.py` file).
     *   The `assets` folder should contain:
         *   An `images` subfolder with:
-            *   `player_ship.png` (your starfighter image)
-            *   `meteorite.png` (your meteorite image)
-            *   `pirate_ship.png` (your pirate ship image)
-            *   `background.png` (your scrolling background image)
+            *   `player_ship.png`
+            *   `meteorite.png`
+            *   `pirate_ship.png` 
+            *   `background.png` 
         *   A `sounds` subfolder with:
-            *   `background_music.mp3` (or `.ogg`, your background music file)
-        *(Note: Actual filenames might differ based on your specific asset files; ensure they match the paths defined in the game script.)*
+            *   `background_music.mp3
+              
 3.  **Running the Game**:
     *   Navigate to the game's directory in your terminal.
     *   Run the main Python script:
