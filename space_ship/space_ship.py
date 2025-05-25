@@ -55,11 +55,6 @@ PIRATE_IMG_PATH = os.path.join(IMAGES_DIR, "pirate_ship.png")
 BACKGROUND_IMG_PATH = os.path.join(IMAGES_DIR, "background.png")
 MUSIC_PATH = os.path.join(SOUNDS_DIR, "background_music.mp3") # or .ogg
 
-# --- Global variables for loaded assets (to avoid loading multiple times) ---
-player_image_orig = None
-meteorite_image_orig = None
-pirate_image_orig = None
-background_image = None
 
 def load_assets():
     global player_image_orig, meteorite_image_orig, pirate_image_orig, background_image
